@@ -1,0 +1,13 @@
+created: 20190514224719637
+creator: vrac
+modified: 20190514225004353
+modifier: vrac
+tags: Documentation
+title: Technique : docker
+type: text/vnd.tiddlywiki
+
+Il est possible de lancer ce wiki dans docker.
+
+Pour cela, créer le fichier [[docker-compose.yml]] tel que suit :
+
+{{docker-compose.yml}}

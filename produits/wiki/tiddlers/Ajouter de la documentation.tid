@@ -1,0 +1,11 @@
+created: 20190514220931622
+creator: vrac
+modified: 20190514221443280
+modifier: vrac
+tags: Documentation
+title: Ajouter de la documentation
+type: text/vnd.tiddlywiki
+
+Pour ajouter une nouvelle page de documentation, il faut créer un nouveau « tiddler » (page) ayant le tag <<tag Documentation>>.
+
+Cela peut se faire en un clic depuis le tiddler [[Documentation]] en cliquant sur {{$:/core/images/new-here-button}} (en haut à droite).

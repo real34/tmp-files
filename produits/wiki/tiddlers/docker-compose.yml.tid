@@ -1,0 +1,17 @@
+created: 20190514224859422
+creator: vrac
+modified: 20190514224902783
+modifier: vrac
+title: docker-compose.yml
+type: text/plain
+
+version: "3"
+services:
+  web:
+    image: node:12-alpine
+    ports:
+      - 8080
+    entrypoint: npx tiddlywiki@5.1.19 /wiki
+    command: --listen host=0.0.0.0 credentials=users.csv "readers=(anon)" "writers=(authenticated)"
+    volumes:
+      - ./wiki:/wiki

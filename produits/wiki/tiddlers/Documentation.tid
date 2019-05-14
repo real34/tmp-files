@@ -1,0 +1,17 @@
+created: 20190514215348231
+creator: vrac
+modified: 20190514221554840
+modifier: vrac
+title: Documentation
+type: text/vnd.tiddlywiki
+
+Ce site est accessible à tous et toutes en lecture.
+Les informations publiées sont donc publiques.
+
+Son administration est en revanche réservée aux personnes connectées uniquement.
+
+Voici les différentes pages de documentation :
+
+<<list-links filter:"[tag[Documentation]]">>
+
+Pour en savoir plus, il est possible de se référer à la documentation de l’outil utilisé : [[TiddlyWiki|https://tiddlywiki.com/languages/fr-FR/]].

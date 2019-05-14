@@ -1,0 +1,17 @@
+created: 20190514223843950
+creator: vrac
+modified: 20190514224553249
+modifier: vrac
+tags: Documentation
+title: Création d’un lien direct
+type: text/vnd.tiddlywiki
+
+Lorsque vous êtes sur un tiddler, il est possible de copier le lien direct vers celui-ci en cliquant sur {{$:/core/images/permalink-button}}.
+
+Ce lien contiendra toute l’interface. Si vous souhaitez une version plus allégée de la page, vous pouvez enlever le `#` du début de l’url.
+
+!! Exemple
+
+Ce tiddler a pour adresse http://exemple.com/#Cr%C3%A9ation%20d%E2%80%99un%20lien%20direct
+
+La version allégée est accessible par l’adresse http://exemple.com/Cr%C3%A9ation%20d%E2%80%99un%20lien%20direct
